@@ -5,14 +5,14 @@
 ## 4th Member
 <strong>Developer 💻</strong>
   <div markdown="1">
-      <a href="https://github.com/hjzhhhj">정희진
-      <a href="https://github.com/nck90">박준원
-      <a href="https://github.com/Hyjung07">정현윤
-      <a href="https://github.com/hJun-KR">박홍준
-  </div>
+      <a href="https://github.com/hjzhhhj">정희진<\t>
+      <a href="https://github.com/nck90">박준원<\t>
+      <a href="https://github.com/Hyjung07">정현윤<\t>
+      <a href="https://github.com/hJun-KR">박홍준<\t>
+  </div><br>
 
 <strong>Designer 🎨</strong>
   <div markdown="1">
-      <a href="https://github.com/">문지우
+      <a href="https://github.com/">문지우<\t>
       <a href="https://github.com/">한정훈
   </div>
