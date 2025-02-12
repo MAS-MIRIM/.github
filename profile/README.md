@@ -12,8 +12,9 @@
   <a href="https://github.com/hJun-KR">박홍준</a>
 </div>  
 <br>
-<strong>Designer 🎨</strong><br>
+<strong>Designer 🎨</strong>
 <div markdown="1">
+  <br>
   <a href="https://github.com/">문지우</a><br>
   <a href="https://github.com/">한정훈</a>  
 </div>
