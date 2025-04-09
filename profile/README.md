@@ -18,8 +18,6 @@
 
 </details>
 
----
-
 <details>
 <summary><strong>👩‍💻 5th Member</strong></summary>
 
