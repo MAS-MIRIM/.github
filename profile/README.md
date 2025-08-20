@@ -25,9 +25,9 @@
 <summary>4기 멤버 펼쳐보기</summary>
 
 * [정희진](https://github.com/hjzhhhj)
-* [박준원](https://github.com/nck90)
 * [박홍준](https://github.com/hJun-KR)
-* [김효일](https://github.com/rlagydlf)
+* [우지영](https://github.com/Woojiyeong)
+* [윤건](https://github.com/yoongeon8)
 * 문지우
 
 </details>
