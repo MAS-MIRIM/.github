@@ -42,7 +42,7 @@
 * [강하윤](https://github.com/kagnhayun)
 * [김하진](https://github.com/khjtwin1)
 * [하정원](https://github.com/hajungwon31)
-* [차윤미](https://github.com/cymcym11)
+* [박준서](https://github.com/)
 * 김시은
 * [윤수아](https://github.com/yoonsooah)
 
