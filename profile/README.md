@@ -42,9 +42,23 @@
 * [강하윤](https://github.com/kagnhayun)
 * [김하진](https://github.com/khjtwin1)
 * [하정원](https://github.com/hajungwon31)
-* [박준서](https://github.com/)
+* [박준서](https://github.com/junseo090520)
 * 김시은
 * [윤수아](https://github.com/yoonsooah)
+
+</details>
+
+---
+### 👩‍💻 6기
+
+<details>
+<summary>6기 멤버 펼쳐보기</summary>
+
+* [박경은](https://github.com/parksunsu0113)
+* [송동욱](https://github.com/sdw100923)
+* [이시윤](https://github.com/isiyun660-del)
+* [이효주]
+* [최강은]
 
 </details>
 
