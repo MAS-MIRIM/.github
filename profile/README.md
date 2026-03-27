@@ -67,5 +67,5 @@
 ## 📫 문의 / 연락
 
 MAS에 대해 궁금한 점이 있다면
-**부장 인스타그램 [@hyizn0](https://www.instagram.com/hyizn0)**
+**부장 인스타그램 [@ga_majin](https://www.instagram.com/ga_majin/)**
 또는 **공식 계정 [@mas\_mirim](https://www.instagram.com/mas_mirim/)** 으로 DM 주세요!
