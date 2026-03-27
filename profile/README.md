@@ -57,8 +57,8 @@
 * [박경은](https://github.com/parksunsu0113)
 * [송동욱](https://github.com/sdw100923)
 * [이시윤](https://github.com/isiyun660-del)
-* [이효주]
-* [최강은]
+* 이효주
+* 최강은
 
 </details>
 
