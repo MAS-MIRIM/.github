@@ -39,7 +39,7 @@
 <details>
 <summary>5기 멤버 펼쳐보기</summary>
 
-* [강하윤](https://github.com/kagnhayun)
+* [강하윤](https://github.com/g4nghayun09)
 * [김하진](https://github.com/khjtwin1)
 * [하정원](https://github.com/hajungwon32)
 * [박준서](https://github.com/junseo090520)
